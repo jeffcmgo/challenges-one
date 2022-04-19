@@ -1,4 +1,4 @@
-![](/Users/macmini/workspace/challenges-one/imagens/OA.png)
+![](imagens/OA.png)
 # Oracle Next Education
 ## Alura Challenges
 
