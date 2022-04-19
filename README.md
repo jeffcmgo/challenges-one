@@ -1,4 +1,4 @@
-![](https://app.aluracursos.com/form-one/assets/images/logo-alura-oracle.svg)
+![](/Users/macmini/workspace/OA.png)
 # Oracle Next Education
 ## Alura Challenges
 
