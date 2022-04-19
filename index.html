@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Decodificador de Texto</title>
+
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link rel="icon" href="imagens/favicon.png">
+
+</head>
+<body>
+    <header>
+        <img class="logo" src="imagens/alura-logo.png">
+        <h1 class="titulo">Alura Challenge  |  Decodificador de Textos</h1>
+    </header>
+    <main>
+        <div class="principal">
+            <textarea name="textarea" id="entrada" placeholder="Digite seu texto"></textarea>    
+        </div>
+        <div class="resultado">
+            <textarea name="textarea" id="resultado" placeholder="Seu resultado aparecerá aqui"></textarea>
+            <img id="imagem-ops" src="imagens/imagem.png">
+            <h2 id="titulo-ops">Nenhuma mensagem encontrada</h2>
+            <p class="ops" id="ops">Digite um texto que você deseja criptografar ou descriptografar.</p>
+            <button id="botao-copiar">Copiar</button>
+        </div>
+        <div class="botoes">
+            <p class="info"><img src="imagens/info.png" width="15"> Apenas letras minúsculas, sem acentos nem caracteres especiais.</p>
+            <button id="botao-encriptar">Criptografar</button>
+            <button id="botao-decriptar">Descriptografar</button>
+        </div>
+    </main>
+    <footer>
+        <p class="autor">&#169;2022 Jeferson Camargo <br><br><a href="https://www.linkedin.com/in/jeffcmgo/"><img src="imagens/LinkedIn_Logo.png" width="80"> </a></p>
+    </footer>
+    
+    <script src="js/encriptador.js"></script>
+    <script src="js/decriptador.js"></script>
+</body>
+</html>

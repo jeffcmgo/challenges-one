@@ -1,4 +1,4 @@
-![](/Users/macmini/workspace/OA.png)
+![](/Users/macmini/workspace/challenges-one/imagens/OA.png)
 # Oracle Next Education
 ## Alura Challenges
 
@@ -14,4 +14,4 @@ Desenvolvi funções para validar o texto e encriptar (utilizando RegEx e `repla
 
 Além disso, fui muito auxiliado pelas ferramentas Trello, Figma e Discord. Me senti fazendo parte de um time de desenvolvimento e isso foi muito bom!👨🏻‍💻
 
-**Obrigado Oracle e Alura!**
+**Obrigado Oracle e Alura!** #challengeonedecodificador2
