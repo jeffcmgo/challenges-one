@@ -1,4 +1,3 @@
-
 function validaTexto(str) { // função para validar o conteúdo inserido pelo usuário
     // define caracteres aceitos utilizando RegEx
     const letrasMinusculas = /[a-z]/;
@@ -120,4 +119,3 @@ botaoEncriptar.addEventListener("click", function() {
 
 // quando clicado, executa a função para copiar o resultado
 botaoCopiar.addEventListener("click", copiaTexto);
-
